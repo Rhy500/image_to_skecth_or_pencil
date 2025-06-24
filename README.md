@@ -26,15 +26,15 @@ streamlit run app.py
 
 ### Original Image
 
-![Original Image](running_code/papoy.jpg)
+![Original Image](runing_code/papoy.jpg)
 
 ### Pencil Sketch Result
 
-![Pencil Sketch](running_code/pencilsketch.png)
+![Pencil Sketch](runing_code/pencilsketch.png)
 
 ### Watercolor Sketch Result
 
-![Watercolor Sketch](running_code/watercolorsketch.png)
+![Watercolor Sketch](runing_code/watercolorsketch.png)
 
 ## 🛠️ How to Run
 
