@@ -9,6 +9,19 @@ This application is used to convert images into **pencil sketches** or **waterco
 - Display the conversion result
 - Download the result
 
+## install
+
+```bash
+pip install streamlit
+pip install pillow
+pip install opencv-python
+pip install numpy
+
+## 🛠️ How to Run
+
+```bash
+streamlit run app.py
+
 ## 📁 Example Images
 
 ### Original Image
@@ -26,5 +39,4 @@ This application is used to convert images into **pencil sketches** or **waterco
 ## 🛠️ How to Run
 
 ```bash
-pip install -r requirements.txt
 streamlit run app.py
